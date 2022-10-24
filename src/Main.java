@@ -6,4 +6,8 @@ public class Main {
     public int sumInt(int a, int b){
         return a + b;
     }
+
+    public int negInt(int a, int b){
+        return a - b;
+    }
 }
